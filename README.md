@@ -1,3 +1,26 @@
+## Dive in to Angular2 by making cool projects:
+
+   <strong>   Prerequisites </strong>
+     <ul>
+       <li>Javascript</li>
+       <li> HTML5 </li> 
+       <li> CSS3 </li>
+      </ul>
+    <strong>  Includes </strong>
+     <ul>
+       <li> Learning Material 
+            <ul> 
+              <li> Creating your first Angular Component </li>
+              <li>  Creating a quiz app </li>
+         
+            </ul>  
+              
+  
+      </li>
+       <li> Coding Projects </li>
+      </ul>
+
+<h4> Follow the steps to start with the project </h4>
 # Angular 2 Beta Boilerplate
 
 ## Description
