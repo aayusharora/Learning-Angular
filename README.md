@@ -1,4 +1,4 @@
-# Dive in to Angular by making cool projects:
+# Dive into Angular by making cool projects:
 
 <strong>   Prerequisites </strong>
 <ul>
@@ -27,15 +27,23 @@ It is derived from the official Angular 2 Documentation which can be found [here
 ## Usage
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 
-1: Clone repo
+1: Clone the repository
 ```
-Clone the repository
+git clone https://github.com/aayusharora/Learning-Angular.git
 ```
-2: Install packages
+2: a) For working on the projects
+```
+cd Coding Projects
+```
+2: b) For Learning concepts used in the Projects
+```
+cd Learning Material
+```
+3: Install packages
 ```
 npm install
 ```
-3: Start server (includes auto refreshing) and gulp watcher
+4: Start server (includes auto refreshing) and gulp watcher
 ```
 npm start
 ```
