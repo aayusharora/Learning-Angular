@@ -29,7 +29,8 @@
  We can also declare `functions` like this in typescript:
  
  `function main(x: string) {
-
-
-   }` 
+    var x: string;
+    x = "Hello World"
+    return x;
+  }` 
     
