@@ -27,7 +27,8 @@
     x = "3";` is invalid.
 
  We can also declare `functions` like this in typescript:
- ` function main(x: string) {
+ 
+ `function main(x: string) {
 
 
    }` 
