@@ -31,11 +31,11 @@ Follow the following steps and you're good to go! Important: Typescript and npm 
 ```
 git clone https://github.com/aayusharora/Learning-Angular.git
 ```
-2. For working on the projects
+2. a) For working on the projects
 ```
 cd Coding Projects
 ```
-3. For Learning concepts used in the Projects
+2. b) For Learning concepts used in the Projects
 ```
 cd Learning Material
 ```
@@ -43,7 +43,7 @@ cd Learning Material
 ```
 npm install
 ```
-3: Start server (includes auto refreshing) and gulp watcher
+4: Start server (includes auto refreshing) and gulp watcher
 ```
 npm start
 ```
