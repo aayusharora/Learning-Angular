@@ -1,2 +1,2 @@
 
-## The quickguide Heroes Project
+## The quick guide Heroes Project
